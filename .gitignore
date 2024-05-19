@@ -1,0 +1,9 @@
+dataset/
+*.JPG
+*.PYC
+*.pyc
+*.yaml
+
+
+
+light_model/Weights/MobileFace_Net
